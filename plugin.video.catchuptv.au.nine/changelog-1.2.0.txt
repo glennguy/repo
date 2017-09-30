@@ -1,0 +1,82 @@
+[B]Version v1.2.0[/B]
+- fix secure token for local fork
+- fix logic test
+- echo variable
+- fix error
+- test new travis.yml
+
+[B]Version v1.1.1[/B]
+- fix missing quote
+
+[B]Version v1.1.0[/B]
+- Last test
+- Test again
+- test
+- testing
+- test
+- update
+- fix
+- update
+- rejig travis
+
+[B]Version v1.0.9[/B]
+- test
+
+[B]Version v1.0.8[/B]
+- test
+
+[B]Version v1.0.7[/B]
+- test
+
+[B]Version v1.0.6[/B]
+- testt
+
+[B]Version v1.0.5[/B]
+- test
+
+[B]Version v1.0.4[/B]
+- generate addon name
+
+[B]Version v1.0.3[/B]
+- update2
+
+[B]Version v1.0.2[/B]
+- testing
+- test
+- update
+- fix
+- update
+- rejig travis
+- test
+- testt
+- test
+- generate addon name
+- update2
+
+[B]Version v1.0.18[/B]
+- testing
+
+[B]Version v1.0.15[/B]
+- test
+
+[B]Version v1.0.12[/B]
+- update
+
+[B]Version v1.0.11[/B]
+- fix
+
+[B]Version v1.0.10[/B]
+- update
+- rejig travis
+- test
+- testt
+- test
+- generate addon name
+- update2
+- update
+
+[B]Version v1.0.1[/B]
+- test
+
+[B]Version v1.0.0[/B]
+- Initial version
